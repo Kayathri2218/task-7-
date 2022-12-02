@@ -1,0 +1,32 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container {
+	margin: auto;
+	width: 90%;
+}
+.feature {
+	margin: 50px 0;
+}
+.row-sec{
+	display: flex;
+	justify-content: space-evenly;
+}
+.image{
+	display: flex;
+	justify-content: center;
+}
+img{
+	max-width: 90%;
+}
+.col-sec{
+	display: flex;
+	padding: 30px;
+}
+.icon i{
+	font-size: 30px;
+	padding: 20px;
+	color: #eb7209;
+}
